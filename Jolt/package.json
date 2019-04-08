@@ -1,0 +1,8 @@
+{
+"version": "1.0.0",
+"description": "Discord bot for queueing music",
+"main": "Jolt.py",
+"author": "Adam Gaddis",
+"token": "NTY0NjQ4Nzk2NjQyODY5MjQ4.XKrCew.ZoFF0FF_m0wDUMNmB2DZGs_pPuw",
+"dependencies": {}
+}
