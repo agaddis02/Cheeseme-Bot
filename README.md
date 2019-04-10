@@ -1,7 +1,7 @@
 # Cheeseme Chat Bot
 Discord bot for funny things in our personal Cheesme Chat
 
-CURRENT DISCORD PYTHON LIBRARY BEING USED
+# CURRENT DISCORD PYTHON LIBRARY BEING USED
 python -m pip install -U https://github.com/Rapptz/discord.py/archive/rewrite.zip
 
 Documentation -> https://discordpy.readthedocs.io/en/latest/index.html
