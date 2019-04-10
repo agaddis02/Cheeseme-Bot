@@ -1,4 +1,4 @@
-# Music-Bot
+# Cheeseme Chat Bot
 Discord bot that will be able to queue music for you
 
 CURRENT DISCORD PYTHON LIBRARY BEING USED
