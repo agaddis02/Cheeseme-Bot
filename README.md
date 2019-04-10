@@ -13,5 +13,5 @@ https://github.com/Rapptz/discord.py
 # Examples
 https://github.com/Rapptz/discord.py/tree/master/examples
 
-#Examples for dicord.ext.commands(bot)
+# Examples for dicord.ext.commands(bot)
 https://github.com/Rapptz/discord.py/blob/master/examples/basic_bot.py
